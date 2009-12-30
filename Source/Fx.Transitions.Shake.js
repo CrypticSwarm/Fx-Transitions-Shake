@@ -14,7 +14,7 @@ requires:
 
 provides: [Fx.Transitions.Shake]
 
----
+...
 */
 Fx.implement({
 
